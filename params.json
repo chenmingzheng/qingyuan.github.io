@@ -1,0 +1,6 @@
+{
+  "name": "Qingyuan.GitHub.io",
+  "tagline": "清源的博客",
+  "body": "# 关于thinkjs的小结\r\n\r\n在thinkjs中，controller返回数据都用return，\r\n不能使用throw，但是在services中，可以使用throw，\r\n如果使用了try。。。catch。。语句，则可能在调试的时候，看不到错误信息，调试的时候尽量去掉这个语句。\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
